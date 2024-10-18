@@ -7,4 +7,5 @@ Autumn 2024 Ecoseminar
 
 Link: https://github.com/
 
-![Uploading cubs running 3.jpg…]()
+
+![Delta](https://github.com/user-attachments/assets/31bb5eb9-e2b1-4a59-a1e9-1e4ca51c1011)
