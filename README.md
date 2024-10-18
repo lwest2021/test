@@ -6,3 +6,5 @@ Repository for testing my Git/GitHub setup”
 Autumn 2024 Ecoseminar
 
 Link: https://github.com/
+
+![Uploading cubs running 3.jpg…]()
