@@ -1,0 +1,8 @@
+---
+title: "Testing github connection"
+author: "Leigh West"
+date: "2024-10-25"
+output: html_document
+---
+
+# Testing R projects in github
